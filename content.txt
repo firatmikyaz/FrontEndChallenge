@@ -3,3 +3,10 @@
 A shoe detail page created and some information added (image,product name,button,price,etc.) detail page.
 
 In this challenge, it was requested to use only html elements.
+
+
+#Challenge-2
+
+We added css to this project. Here we improved the page. For this, we used classes, ids, pseudo classes in the css file.
+
+Some of the css properties I have used are as follows. (text-transform, border, color, line-height, cursor, etc.)
