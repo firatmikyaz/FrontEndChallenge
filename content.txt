@@ -10,3 +10,12 @@ In this challenge, it was requested to use only html elements.
 We added css to this project. Here we improved the page. For this, we used classes, ids, pseudo classes in the css file.
 
 Some of the css properties I have used are as follows. (text-transform, border, color, line-height, cursor, etc.)
+
+
+#Challenge-3
+
+First we reset the global margin and padding. Then we provide the desired margins in the elements' css selectors.
+
+We positioned the product content to center it on our page and assigned a width value.
+
+We made the button to be the width of the page and added a border along with the padding.
