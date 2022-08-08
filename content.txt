@@ -26,3 +26,10 @@ We made the button to be the width of the page and added a border along with the
 We created a sticker called sale and placed it in the upper-left part of the product content in such a way that it protrudes halfway.
 
 We created small square boxes with 6 different color options for the product.
+
+
+#Challenge-5
+
+We used float layout to create layout in css.
+
+We positioned the page structure side by side as divided into 3 columns.
