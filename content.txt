@@ -1,35 +1,29 @@
 #Challenge-1
 
 A shoe detail page created and some information added (image,product name,button,price,etc.) detail page.
-
 In this challenge, it was requested to use only html elements.
-
 
 #Challenge-2
 
 We added css to this project. Here we improved the page. For this, we used classes, ids, pseudo classes in the css file.
-
 Some of the css properties I have used are as follows. (text-transform, border, color, line-height, cursor, etc.)
-
 
 #Challenge-3
 
 First we reset the global margin and padding. Then we provide the desired margins in the elements' css selectors.
-
 We positioned the product content to center it on our page and assigned a width value.
-
 We made the button to be the width of the page and added a border along with the padding.
-
 
 #Challenge-4
 
 We created a sticker called sale and placed it in the upper-left part of the product content in such a way that it protrudes halfway.
-
 We created small square boxes with 6 different color options for the product.
-
 
 #Challenge-5
 
 We used float layout to create layout in css.
-
 We positioned the page structure side by side as divided into 3 columns.
+
+#Challenge-6
+
+This challenge includes the use of flexbox in the same way as the page structure instead of the Float structure.
