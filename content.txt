@@ -27,3 +27,7 @@ We positioned the page structure side by side as divided into 3 columns.
 #Challenge-6
 
 This challenge includes the use of flexbox in the same way as the page structure instead of the Float structure.
+
+#Challenge-7
+
+This challenge includes the use of Grid in the same way as the page structure instead of the Flexbox structure.
